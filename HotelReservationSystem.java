@@ -9,8 +9,8 @@ import java.sql.ResultSet;
 
 public class HotelReservationSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
-    private static final String username = "MYDB";
-    private static final String password = "harshal13804@";
+    private static final String username = "Your_USERNAME";
+    private static final String password = "Your_MYSQL_Password";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
